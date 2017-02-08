@@ -1,5 +1,5 @@
 {
-    "name": "coldtrick/embedded_login",
+    "name": "pleio/embedded_login",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
